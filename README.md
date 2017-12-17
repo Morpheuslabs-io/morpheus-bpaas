@@ -1,4 +1,4 @@
-[![Morpheus Logo](https://avatars1.githubusercontent.com/u/34614083?s=200&amp;v=4)
+[![Morpheus Logo](https://avatars1.githubusercontent.com/u/34614083?s=200&amp;v=4)](http://morpheuslabs.io/)
 # Morpheus Labs
 
 # MORPHEUS BLOCKCHAIN PLATFORM AS SERVICE BPaaS
