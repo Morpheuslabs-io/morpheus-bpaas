@@ -9,12 +9,12 @@ Our first goal is to give to project teams the flexibility to easy choose betwee
 
 ![Morpheus BPaaS](./img/ML_Archi.png)The image above shows the high level architecture. The technologies shown are only exemplificative as the final choice may vary in time.
 #  CDE
-  - Cloud IDE. Our IDE is an implementation of Eclipse Che (https://www.eclipse.org/che/) one of the most powerful cloud IDE for collaborative development. We are working one interoperability (via SSH/WebHTTPs) to allow developers use local IDEs like VSCode (https://github.com/Microsoft/vscode) and Atom via Nuclide (https://github.com/facebook/nuclide) to connect to our CDE.
+  - Cloud IDE. Our IDE is a custom implementation of the opensource Eclipse Che (https://www.eclipse.org/che/), one of the most powerful cloud IDE for collaborative development. We are working to create remote project development (via SSH/WebHTTPs) for local IDEs like VSCode (https://github.com/Microsoft/vscode) and Atom via Nuclide (https://github.com/facebook/nuclide) to connect to our CDE.
   - For Blockchain Developers we provide dedicated Workspaces Orchestration for Organisations/Teams/Subteams
   - Git capabilities for teams repositories and Version Control
   - Blockchain runtimes as single (eg. only dev machine) or multiple machines(eg. Dev Machine, Test, Live Nodes, Other..)
   - A list of preconfigured blockchain development stacks for various development needs. All new stack recipes , aside the existing predefined by our team, will be published in https://github.com/Morpheuslabs-io/BaaS-recipes. A stack recipe is like a composer file that compose up the entire technology stack necessary for code, teste nd deploy.
-  - Developers shall be able to select any blockchain and develop it in any language they are competent in. For this purpose using our CDE we aim to give a plenty of language services choice (eg. Go, Python, Java, Solidity, C++, .Net ...)
+  - Developers shall be able to select any blockchain and develop it in any language they are competent in. For this purpose using our CDE we aim to give a plenty of language services choice (eg. Go, Python, Java, Solidity, C++, .Net ...). Our effort to add more languages in our cloud CDE started here https://github.com/Morpheuslabs-io/morpheus-cde
 
   For more information about Morpheus BPaaS CDE https://github.com/Morpheuslabs-io/morpheus-cde
 
