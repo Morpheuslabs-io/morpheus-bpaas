@@ -25,3 +25,4 @@ Application store is a crowdsourced marketplace to curate all blockchain-based a
 
 
 # Blockchain Operation Console
+The Operations console aggregates the operational activities required to manage the Blockchain network provisioned on the platform .
