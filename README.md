@@ -18,7 +18,7 @@ Our first goal is to give to project teams the flexibility to easy choose betwee
 
 ![Morpheus BPaaS](./img/ML_Archi.png)The image above shows the high level architecture. The technologies shown are only exemplificative as the final choice may vary in time.
 ##  CDE
-  - Cloud IDE. Our IDE is a custom implementation of the opensource Eclipse Che (https://www.eclipse.org/che/), one of the most powerful cloud IDE for collaborative development. We are working to create remote project development (via SSH/WebHTTPs) for local IDEs like VSCode (https://github.com/Microsoft/vscode) and Atom via Nuclide (https://github.com/facebook/nuclide) to connect to our CDE.
+  - Cloud IDE. Our IDE is a custom implementation of the opensource Eclipse Che (https://www.eclipse.org/che/), one of the most powerful cloud IDE for collaborative development. We are also adding remote project development capabilities (via SSH/WebHTTPs) to make local IDEs like VSCode (https://github.com/Microsoft/vscode) and Atom via Nuclide (https://github.com/facebook/nuclide) able to connect to our CDE.
   - For Blockchain Developers we provide dedicated Workspaces Orchestration for Organisations/Teams/Subteams
   - Git capabilities for teams repositories and Version Control
   - Blockchain runtimes as single (eg. only dev machine) or multiple machines(eg. Dev Machine, Test, Live Nodes, Other..)
