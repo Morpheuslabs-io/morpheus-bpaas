@@ -2,7 +2,7 @@
 # Morpheus Labs
 
 # MORPHEUS BLOCKCHAIN PLATFORM AS SERVICE BPaaS
-This is the entry point github for inform the public regarding our development progress.
+This is the entry point for the public regarding our development progress.
 ## Disclaimer
 Our aim is to provide high transparency about our platform development progress. We care that our users get to know about our continuous effort into development of a such complex platform architecture. Our aim is to make public everything the user needs in order to use our platform:
  - sample applications for different blockchain technologies that will be possible to deploy in our platform
