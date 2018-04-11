@@ -4,13 +4,13 @@
 # MORPHEUS BLOCKCHAIN PLATFORM AS SERVICE BPaaS
 This is the entry point for the public regarding our development progress.
 ## Disclaimer
-Our aim is to provide high transparency about our platform development progress. We care that our users get to know about our continuous effort into development of a such complex platform architecture. Our aim is to make public everything the user needs in order to use our platform:
- - sample applications for different blockchain technologies that will be possible to deploy in our platform
- - technology stack recipes that we use to automate the blockchain deveopment
- - Language Services agents able to facilitate smart contract development
- - Other components dedicated to facilitate the user interaction/integration with our platform
+Our aim is to provide high transparency about our platform development progress. We care that our users get to know about our continuous effort into the development. Our aim is to make public everything the user needs in order to use our platform:
+ - Sample applications for different blockchain technologies that will be possible to deploy in our platform
+ - Technology stack recipes that we use in order to automate the blockchain deveopment
+ - Language Services agents able to facilitate smart contract development in our CDE
+ - Other open source components are dedicated to facilitate the user interaction/integration with our platform core components
 
- However, some proprietary core modules of our code will be maintained in our private repository.
+ However, for the core modules of our proprietary code will be maintained in private repositories.
 
 # Description
 Our project aims to create a Blockchain Platform As Service that simplifies and expedites blockchain application development.
