@@ -48,6 +48,11 @@ This module manages platform service subscription for all the users. The followi
 
 ![ML BPaaS_Membership](./img/membership.PNG)
 
+## My Repository
+
+My Repository module manages source codes that a platform user / team created or downloaded from App Sore.
+
+![ML BPaaS_MyRepository](./img/myrepository.PNG)
 
 
 
