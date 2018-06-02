@@ -16,9 +16,9 @@ Our aim is to provide high transparency about our platform development progress.
 Our project aims to create a Blockchain Platform As Service that simplifies and expedites blockchain application development.
 Our first goal is to give to project teams the flexibility to easy choose between different programming languages and blockchain runtimes that better suit your needs. To achieve the goal we are creating end-to-end solution for faster development in Blockchain.
 
-![Morpheus BPaaS](./img/ML_Archi.png)The image above shows the high level architecture. The technologies shown are only exemplificative as the final choice may vary in time.
+![Morpheus BPaaS](./img/ML_Archi.png) The image above shows the high level architecture. The technologies shown are only exemplificative as the final choice may vary in time.
 
-![Morpheus BPaaS App](./img/App-Arch-01.png)The image above is an high level application architecture showing the Key components of the ML BPaaS.
+![ML BPaaS App](./img/App-Arch-01.png) The image above is an high level application architecture showing the Key components of the ML BPaaS.
 
 ##  CDE
   - Cloud IDE. Our IDE is a custom implementation of the opensource Eclipse Che (https://www.eclipse.org/che/), one of the most powerful cloud IDE for collaborative development. We are also adding remote project development capabilities (via SSH/WebHTTPs) to make local IDEs like VSCode (https://github.com/Microsoft/vscode) and Atom via Nuclide (https://github.com/facebook/nuclide) able to connect to our CDE.
