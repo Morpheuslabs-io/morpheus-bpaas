@@ -42,3 +42,14 @@ Application store is a crowdsourced marketplace to curate all blockchain-based a
 ## Blockchain Operation Console
 The Operations console aggregates the operational activities required to monitor and manage the Blockchain network provisioned on the platform. The Blockchain network are are managed by Blockchain Operation Console are Ethereum, HyperLedger Fabric, NEM (https://nemlibrary.com/) and Multichain. More blockcahin networks will be added in future. Details about "Blockchain Operation Console" https://github.com/Morpheuslabs-io/morpheus-ops-console.
 
+## Membership Management
+
+This module manages platform service subscription for all the users. The following diagram shows the high level flow.
+
+![ML BPaaS_Membership](./img/membership.PNG)
+
+
+
+
+
+
