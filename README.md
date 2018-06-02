@@ -18,7 +18,7 @@ Our first goal is to give to project teams the flexibility to easy choose betwee
 
 ![Morpheus BPaaS](./img/ML_Archi.png) The image above shows the high level architecture. The technologies shown are only exemplificative as the final choice may vary in time.
 
-![ML BPaaS App](./img/App-Arch-01.png) The image above is an high level application architecture showing the Key components of the ML BPaaS.
+![ML BPaaS App](./img/App-Arch-01.PNG) The image above is an high level application architecture showing the Key components of the ML BPaaS.
 
 ##  CDE
   - Cloud IDE. Our IDE is a custom implementation of the opensource Eclipse Che (https://www.eclipse.org/che/), one of the most powerful cloud IDE for collaborative development. We are also adding remote project development capabilities (via SSH/WebHTTPs) to make local IDEs like VSCode (https://github.com/Microsoft/vscode) and Atom via Nuclide (https://github.com/facebook/nuclide) able to connect to our CDE.
