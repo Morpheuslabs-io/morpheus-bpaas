@@ -39,6 +39,11 @@ Application store is a crowdsourced marketplace to curate all blockchain-based a
 ### Ethereum based sample applications
   This repo is dedicated to our collection of samples DApps and smart contract related apps. These application may have been modified from the original samples applications available in other repositories, to be used in Morpheus Labs BPaaS. The sample applications can be used as Tutorial or a starting point for further prototyping.
   https://github.com/Morpheuslabs-io/ethereum-sample-apps
+  
+### Other sample applications
+
+Various blockchain offcain and onchain applications will be available in the AppLibrary of our platform.
+
 ## Blockchain Operation Console
 The Operations console aggregates the operational activities required to monitor and manage the Blockchain network provisioned on the platform. The Blockchain network managed by Blockchain Operation Console are Ethereum, HyperLedger Fabric, NEM (https://nemlibrary.com/) and Multichain. More blockcahin networks will be added in future. Details about "Blockchain Operation Console" https://github.com/Morpheuslabs-io/morpheus-ops-console.
 
