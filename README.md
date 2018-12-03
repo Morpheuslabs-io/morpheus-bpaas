@@ -14,19 +14,19 @@ Our aim is to provide high transparency about our platform development and have 
 
 # Description
 Our project aims to create a Blockchain Platform As A  Service that simplifies and expedites blockchain application development and test.
-Our first goal is to give project teams the flexibility to easyly choose between different programming languages and blockchain runtimes that better suit user needs. To achieve the goal we are creating end-to-end solution for faster development in Blockchain.
+Our current goal is to give project teams the flexibility to easyly choose between different programming languages and blockchain runtimes that better suit user needs and quickly create end-to-end solutions for faster Blockchain application development.
 
-![Morpheus BPaaS](./img/ML_Archi.png) The image above shows the high level architecture. The technologies shown are only exemplificative as the final choice may vary in time.
+![Morpheus BPaaS](./img/ML_Archi.png) The image above shows the high level technical architecture. The technologies shown are only exemplificative as the final choice may vary in time.
 
-![ML BPaaS App](./img/App-Arch-01.PNG) The image above is an high level application architecture showing the Key components of the ML BPaaS.
+![ML BPaaS App](./img/App-Arch-01.PNG) The image above is the high level application architecture showing the Key components of the ML BPaaS.
 
 ##  CDE
   - Cloud IDE. Our IDE is a custom implementation of the open source Eclipse Che (https://www.eclipse.org/che/), one of the most powerful cloud IDE for collaborative development. We are also adding remote project development capabilities (via SSH/WebHTTPs) to make use local IDEs like VSCode (https://github.com/Microsoft/vscode) and Atom via Nuclide (https://github.com/facebook/nuclide) to connect to our CDE.
   - For Blockchain Developers, we provide dedicated Workspaces Orchestration for Organisations/Teams/Subteams
   - Git capabilities for teams repositories and version control
-  - Blockchain runtimes as single (eg. only dev machine) or multiple machines(eg. Dev Machine, Test, Live Nodes, Other..)
-  - A list of preconfigured blockchain development stacks for various development needs. All new stack recipes , aside the existing predefined by our team, will be published in https://github.com/Morpheuslabs-io/BaaS-recipes. A stack recipe is like a composer file that compose up the entire technology stack necessary for code, test and deploy.
-  - Developers shall be able to select any supported blockchain and develop it in a selected language they are competent in. For this purpose using our CDE to give a plenty of language services choice (eg. Go, Python, Java, Solidity, C++, .Net ...). Our effort to add more languages in our cloud CDE started here https://github.com/Morpheuslabs-io/morpheus-cde
+  - Blockchain runtimes with local blockchain runtime, e.g. Ganache or Truffle within thw workspace, single node network or multiple nodes network
+  - A list of preconfigured blockchain development stacks for various development needs. All new stack recipes , aside the existing predefined by our team, will be published in https://github.com/Morpheuslabs-io/BaaS-recipes. A stack recipe is like a composer file that compose up the entire technology stack necessary for application development, test and deploy.
+  - Developers shall be able to select any supported blockchain and develop it in a selected language they are competent in. For this purpose, our CDE provides a plenty of language services choice (eg. Go, Python, Java, Solidity, C++, .Net ...). Our effort to add more languages in our cloud CDE started here https://github.com/Morpheuslabs-io/morpheus-cde
 
   For more information about Morpheus Labs BPaaS CDE https://github.com/Morpheuslabs-io/morpheus-cde
 
