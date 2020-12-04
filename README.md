@@ -2,7 +2,7 @@
 # Morpheus Labs
 
 # MORPHEUS BLOCKCHAIN PLATFORM AS A SERVICE (BPaaS)
-This repo provides an overview about Morphues Labs BPaaS platform.
+This repo provides a technical overview about Morphues Labs BPaaS platform.
 ## Disclaimer
 Our aim is to provide high transparency about our platform development and have sufficient information available to public in order for them to use our platform:
  - Sample applications for different blockchain technologies that are to be deployed in our platform
